@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+I'm passionate about coding and working on diverse projects in Back-end Development, Cloud Technology. Here's an overview of the languages I use in my GitHub projects:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Snehal-Salunke&layout=compact&theme=tokyonight)
+
+
+- 🔭 I’m currently working on Back-end Development, Full Stack development
+- 🌱 I’m currently learning DSA, Java, Microservices Architecture
+- 👯 I’m looking to collaborate on Full Stack or Cloud technology related projects
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+
 <!--
 **Er-Snehal-Salunke/Er-Snehal-Salunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
